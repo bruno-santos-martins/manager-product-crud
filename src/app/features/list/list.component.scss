@@ -1,0 +1,20 @@
+.action-bar
+{
+  margin: 4px;
+  clear: both;
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.list-products {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.link-create-product {
+  width: 300px;
+  border-radius: 6px;
+  margin-right: 2px;
+}

@@ -1,0 +1,14 @@
+
+<div class="action-bar">
+  <a color="primary" class="link-create-product" mat-flat-button [routerLink]="'/create-product'"> Criar Produto </a>
+</div>
+<div class="list-products">
+  @for (product of products; track product.id ) {
+    <app-card [product]="product" (edit)="onEditProdut(product.id)" (onDelete)="onDeleteProduct(product)"></app-card>
+  }
+  @empty {
+    <app-no-items></app-no-items>
+  }
+</div>
+
+
