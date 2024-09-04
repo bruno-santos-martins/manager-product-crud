@@ -3,7 +3,7 @@
 
 # 🚀 Meu Projeto Angular
 
-Bem-vindo ao **Meu Projeto Angular**! Este projeto é uma aplicação web desenvolvida com Angular. Siga as instruções abaixo para configurar e iniciar o projeto.
+Bem-vindo ao **Meu Projeto Angular**! Este projeto é uma aplicação web desenvolvida com Angular para estudo. Siga as instruções abaixo para configurar e iniciar o projeto.
 
 ## 📋 Pré-requisitos
 
